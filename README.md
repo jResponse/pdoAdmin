@@ -7,4 +7,4 @@ This code requires the [PDO](http://php.net/manual/en/book.pdo.php) extension. N
 ## Constraints
 The GUI will only work in Chrome and recent versions of Opera. 
 ## Installation
-Just download the source code to a folder on your server and browse to it.
+Just download the source code to a folder on your server and browse to it after having inserted your own database password on  Line 20 of php/utils.php .
