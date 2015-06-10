@@ -6,6 +6,8 @@ Licensed MIT:http://choosealicense.com/licenses/mit/
 
 Timepicker code by Trent Richardson [http://trentrichardson.com]
 Bigint ode by 	http://silentmatt.com/biginteger/
+
+Stupid table code by http://joequery.github.io/Stupid-Table-Plugin/
 ****************************************************/
 
 var _sql = null,crDefault_ = null,_timer = null,_hides = [],
