@@ -18,7 +18,6 @@ Licensed MIT:http://choosealicense.com/licenses/mit/
 <head>
 <title>PDO Admin</title>
 <link rel="shortcut icon" href='https://1928868936.rsc.cdn77.org/ide/nimages/dbicon.png'/>
-<link rel="stylesheet" href="https://1928868936.rsc.cdn77.org/styles/darkness.css" />
 <link rel='stylesheet' href='https://1928868936.rsc.cdn77.org/myadmin/midnight.css' />
 <link rel='stylesheet' href='https://1928868936.rsc.cdn77.org/myadmin/codemirror.css' />
 <link rel='stylesheet' href='dbadmin.css'/>
