@@ -17,15 +17,15 @@ Licensed MIT:http://choosealicense.com/licenses/mit/
 -->
 <head>
 <title>PDO Admin</title>
-<link rel="shortcut icon" href='https://jresponse.r.worldssl.net/ide/nimages/dbicon.png'/>
-<link rel="stylesheet" href="https://jresponse.r.worldssl.net/styles/darkness.css" />
-<link rel='stylesheet' href='https://jresponse.r.worldssl.net/myadmin/midnight.css' />
-<link rel='stylesheet' href='https://jresponse.r.worldssl.net/myadmin/codemirror.css' />
+<link rel="shortcut icon" href='https://1928868936.rsc.cdn77.org/ide/nimages/dbicon.png'/>
+<link rel="stylesheet" href="https://1928868936.rsc.cdn77.org/styles/darkness.css" />
+<link rel='stylesheet' href='https://1928868936.rsc.cdn77.org/myadmin/midnight.css' />
+<link rel='stylesheet' href='https://1928868936.rsc.cdn77.org/myadmin/codemirror.css' />
 <link rel='stylesheet' href='dbadmin.css'/>
 <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
-<script src='https://jresponse.r.worldssl.net/myadmin/codemirror.js'></script>
-<script src='https://jresponse.r.worldssl.net/myadmin/sql.js'></script>
+<script src='https://1928868936.rsc.cdn77.org/myadmin/codemirror.js'></script>
+<script src='https://1928868936.rsc.cdn77.org/myadmin/sql.js'></script>
 <script>
 var _version = <?php echo "'$ver';"; ?>
 </script>
@@ -33,8 +33,8 @@ var _version = <?php echo "'$ver';"; ?>
 <!-- use dbadmin.php for debugging Javascript source in the jsource folder-->
 </head>
 <body>
-<audio id='audError' style='display:none;' src='https://jresponse.r.worldssl.net/myadmin/error.mp3'></audio>
-<audio id='audDone' style='display:none;' src='https://jresponse.r.worldssl.net/myadmin/done.mp3'></audio>
+<audio id='audError' style='display:none;' src='https://1928868936.rsc.cdn77.org/myadmin/error.mp3'></audio>
+<audio id='audDone' style='display:none;' src='https://1928868936.rsc.cdn77.org/myadmin/done.mp3'></audio>
 <div id='divError'>
 <div id='spnError'></div>
 </div>
@@ -43,16 +43,16 @@ var _version = <?php echo "'$ver';"; ?>
 <span>Users</span>
 <select id='selUsers'></select>
 <div class='divBt'>
-<img id='imgUserNew' src='https://jresponse.r.worldssl.net/ide/nimages/add_entry.png' title='New User'/>
-<img id='imgUserDrop' src='https://jresponse.r.worldssl.net/ide/nimages/binit.png' title='Drop User'/>
+<img id='imgUserNew' src='https://1928868936.rsc.cdn77.org/ide/nimages/add_entry.png' title='New User'/>
+<img id='imgUserDrop' src='https://1928868936.rsc.cdn77.org/ide/nimages/binit.png' title='Drop User'/>
 </div>
 </div>
 <div class='xlay'>
 <span>Databases</span>
 <select id='selDBs'></select>
 <div class='divBt'>
-<img id='imgDBNew' src='https://jresponse.r.worldssl.net/ide/nimages/add_entry.png' title='New database'/>
-<img id='imgDBDrop' src='https://jresponse.r.worldssl.net/ide/nimages/binit.png' title='Drop database'/>
+<img id='imgDBNew' src='https://1928868936.rsc.cdn77.org/ide/nimages/add_entry.png' title='New database'/>
+<img id='imgDBDrop' src='https://1928868936.rsc.cdn77.org/ide/nimages/binit.png' title='Drop database'/>
 </div>
 </div>
 <div class='xlay'>
@@ -61,8 +61,8 @@ var _version = <?php echo "'$ver';"; ?>
 <option value='-'>First select a database!</option>
 </select>
 <div class='divBt'>
-<img id='imgTableNew' src='https://jresponse.r.worldssl.net/ide/nimages/add_entry.png' title='New table'/>
-<img id='imgTableDrop' src='https://jresponse.r.worldssl.net/ide/nimages/binit.png' title='Drop table'/>
+<img id='imgTableNew' src='https://1928868936.rsc.cdn77.org/ide/nimages/add_entry.png' title='New table'/>
+<img id='imgTableDrop' src='https://1928868936.rsc.cdn77.org/ide/nimages/binit.png' title='Drop table'/>
 </div>
 </div>
 <div id='divTblStruc' class='divTables'>
